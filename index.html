@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="public/img/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="public/style/style.css" />
+    <title>Todo List</title>
+  </head>
+
+  <body>
+    <header class="header">
+      <h1 class="title-hearder">Lista de Tarefas</h1>
+    </header>
+    <main class="container">
+      <div class="add-task">
+        <input
+          type="text"
+          placeholder="Adicione sua nova tarefa"
+          class="input-add"
+          id="input-task"
+        />
+        <button class="btn-add" id="btn-add-task">+</button>
+      </div>
+
+      <div class="container-tasks">
+        <p class="title-container-tasks">Tarefas a fazer:</p>
+        <p class="delete-tasks-done" id="check-all-tasks">Concluir todas as Tarefas</p>
+      </div>
+        
+      <ul id="list-container-tasks">
+        
+      </ul>
+
+      <div class="container-tasks">
+        <p class="title-container-tasks-done">Tarefas Concluídas:</p>
+        <p class="delete-tasks-done" id="delete-tasks-done">Excluir Todas as tarefas concluidas</p>
+      </div>
+
+        <ul id="list-container-tasks-done">
+          
+        </ul>
+    </main>
+
+    <script src="Scripts/script.js"></script>
+  </body>
+</html>
