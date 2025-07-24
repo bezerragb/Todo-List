@@ -49,5 +49,14 @@ Os dados são armazenados localmente no navegador e não são compartilhados ent
 ## Autor
 Desenvolvido por Gabriel Bezerra.
 
+## Créditos de Design
+
+O layout base deste projeto foi inspirado no design disponibilizado gratuitamente na [Figma Community](https://www.figma.com/community).
+
+- **Projeto:** [Todo App – Community](https://www.figma.com/design/oD6rPf9V8eqcmoGHARcP7H/Todo-App--Community-?node-id=102-144&p=f&t=X96sowyyX8EhAYrE-0)  
+- **Autor:** Figma Community (crédito conforme publicação original)
+
+Agradecimentos ao autor por compartilhar o design com a comunidade.
+
 
    
