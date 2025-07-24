@@ -4,12 +4,12 @@ Este é um projeto simples e funcional de **Lista de Tarefas (To-Do List)** dese
 
 ## Funcionalidades
 
-- ✅ Adicionar tarefas
-- 🗑️ Remover tarefas individualmente
-- ✔️ Marcar tarefas como concluídas individualmente
-- 🔁 Marcar todas as tarefas como concluídas
-- 🧹 Remover todas as tarefas concluídas
-- 💾 Persistência de dados com `localStorage`
+-  Adicionar tarefas
+-  Remover tarefas individualmente
+-  Marcar tarefas como concluídas individualmente
+-  Marcar todas as tarefas como concluídas
+-  Remover todas as tarefas concluídas
+-  Persistência de dados com `localStorage`
 
 ## Estrutura do Projeto
 
@@ -40,7 +40,7 @@ public/
 
 📷 Prévia
 
-<img width="100" height="600" alt="image" src="https://github.com/user-attachments/assets/d7e16e9f-702f-454b-95eb-2c4bb44e3188" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/d7e16e9f-702f-454b-95eb-2c4bb44e3188" />
 
 ## Observações
 Este projeto foi construído com foco em aprendizado e boas práticas de desenvolvimento front-end.
