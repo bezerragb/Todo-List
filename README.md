@@ -6,21 +6,22 @@ Este é um projeto simples e funcional de **Lista de Tarefas (To-Do List)** dese
 
 - ✅ Adicionar tarefas
 - 🗑️ Remover tarefas individualmente
-- ✔️ Marcar tarefas como concluídas
-- 🔁 Mover tarefas concluídas para uma seção separada
+- ✔️ Marcar tarefas como concluídas individualmente
+- 🔁 Marcar todas as tarefas como concluídas
 - 🧹 Remover todas as tarefas concluídas
 - 💾 Persistência de dados com `localStorage`
 
 ## Estrutura do Projeto
 
- public/
-│ ├── img/ # Imagens utilizadas no projeto
-│ └── style/ # Arquivos de estilo (CSS)
-│ └── style.css
-├── index.html # Estrutura HTML da aplicação
-├── script.js # Lógica da aplicação (JavaScript)
-└── README.md # Documentação do projeto
-
+ ```
+public/
+│ ├── img/            # Imagens utilizadas no projeto
+│ └── style/          # Arquivos de estilo (CSS)
+│     └── style.css
+├── index.html         # Estrutura HTML da aplicação
+├── script.js          # Lógica da aplicação (JavaScript)
+└── README.md          # Documentação do projeto
+```
 
 ## Como usar
 
@@ -32,14 +33,14 @@ Este é um projeto simples e funcional de **Lista de Tarefas (To-Do List)** dese
 
 ## Tecnologias Utilizadas
 
-HTML5
-CSS3
-JavaScript (ES6+)
-LocalStorage
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- LocalStorage
 
 📷 Prévia
 
-<img width="1229" height="624" alt="image" src="https://github.com/user-attachments/assets/d7e16e9f-702f-454b-95eb-2c4bb44e3188" />
+<img width="100" height="600" alt="image" src="https://github.com/user-attachments/assets/d7e16e9f-702f-454b-95eb-2c4bb44e3188" />
 
 ## Observações
 Este projeto foi construído com foco em aprendizado e boas práticas de desenvolvimento front-end.
